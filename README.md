@@ -7,6 +7,7 @@
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI.
 It covers data loading, exploratory data analysis (EDA), data cleaning, SQL querying, dashboard creation, and reporting.
 The goal is to extract meaningful insights from raw data and present them clearly to stakeholders.
+
 📂 Dataset
 Source: (Mention source: Kaggle / Company data / Public dataset)
 Format: CSV / Excel
@@ -20,6 +21,7 @@ Databases: PostgreSQL / MySQL / SQL Server
 Power BI: Interactive dashboard creation
 Gamma: Presentation (PPT) creation
 Excel: Optional validation and quick analysis
+
 🔄 Project Steps
 Data Loading
 Imported dataset into Python using Pandas
@@ -36,6 +38,7 @@ Dashboard Creation
 Built Power BI dashboard with filters and visuals
 Reporting
 Created a summary report and presentation using Gamma
+
 📈 Dashboard
 The Power BI dashboard includes:
 Key performance indicators (KPIs)
@@ -43,6 +46,7 @@ Trend analysis
 Category-wise and time-based insights
 Interactive filters for better exploration
 📷 (Add dashboard screenshots here)
+
 📊 Results & Insights
 Identified key trends and performance drivers
 Highlighted areas of improvement and growth opportunities
