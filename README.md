@@ -1,4 +1,4 @@
-# Data-analyst-project
+CUSTOMER SHOPPING BEHAVIOUR PROJECT
 
 
 
