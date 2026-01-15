@@ -11,8 +11,7 @@ The goal is to extract meaningful insights from raw data and present them clearl
 📂 Dataset
 Source: (Mention source: Kaggle / Company data / Public dataset)
 Format: CSV / Excel
-Description:
-The dataset contains structured data related to business performance (e.g., sales, customers, products, or operations).
+Description: The dataset contains structured data related to business performance (e.g., sales, customers, products, or operations).
 🛠 Tools & Technologies
 Python: Data loading, EDA, and data cleaning
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
